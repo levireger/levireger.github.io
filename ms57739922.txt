@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "levireger.github.io",
+  "Id": "e74f025f-ffe5-46bb-b0e0-20dbbbfbc767"
+}
